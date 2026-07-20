@@ -1,7 +1,9 @@
 # 19 July, 2026
 - Upstream blobs to OS3.0.306.WPJMIXM
 - Update gamespace UI
-- Aku mawu crot
+- Fixup Bluetooth not working
+- Allow user to flash some partition via fastbootD
+- TCK my beloved
 
 # 16 July, 2026
 - Dawg i don't know, don't ask me
