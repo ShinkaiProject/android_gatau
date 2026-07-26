@@ -1,3 +1,9 @@
+# 25 July, 2026
+- Add charging control
+- Add Per app volume
+- Add dynamic notification for led
+- TCK still my beloved
+
 # 19 July, 2026
 - Upstream blobs to OS3.0.306.WPJMIXM
 - Update gamespace UI
