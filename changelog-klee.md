@@ -1,3 +1,8 @@
+# 09 August, 2026
+- Make XiaomiParts as launchable app
+- Update core control icon
+- Fixup charging control selinux issue
+
 # 25 July, 2026
 - Add charging control
 - Add Per app volume
