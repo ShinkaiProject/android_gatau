@@ -1,3 +1,12 @@
+# 30 Agust, 2026
+- Android 17 🫪
+- Drop Dolby Vision
+- Refractor more keymint
+
+# 27 Agust, 2026
+- Upstream vendor blobs to OS3.0.307.0.WPJMIXM
+- Add Dolby Vision
+
 # 09 August, 2026
 - Make XiaomiParts as launchable app
 - Update core control icon
@@ -7,14 +16,12 @@
 - Add charging control
 - Add Per app volume
 - Add dynamic notification for led
-- TCK still my beloved
 
 # 19 July, 2026
 - Upstream blobs to OS3.0.306.WPJMIXM
 - Update gamespace UI
 - Fixup Bluetooth not working
 - Allow user to flash some partition via fastbootD
-- TCK my beloved
 
 # 16 July, 2026
 - Dawg i don't know, don't ask me
@@ -46,18 +53,16 @@
 - Add charging info instead of charging eta
 - MiuiCamera fully working
 - Move spoof settings into System instead of developer option
-- HOT FIX
 
 # June 20, 2026
-- Fixup watermark on camera (finally working)
-- Fixup filters on camera (also)
+- Fixup watermark on camera
+- Fixup filters on camera
 - Fixup blur sometimes disabled when overheated
 - Uses the legacy UDFPS enrollment UI with side text
 - Gather all xiaomi parts into one place and some improvement
 
 # June 08, 2026
 - Fix watermark on MiuiCamera (workaround)
-- Switch to LunarisDolby
 - Improve BackLight and GameBar UI
 - Fixup vibration
 
