@@ -1,5 +1,19 @@
+# 25 September, 2026
+- Re-configure HotwordEnrollment
+- Adapt keymint stack to a17
+- Add proper libaudio for spkcal
+- Add charging resume threshold
+- Refractor Dolby Vision
+- Hdr not tested yet
+- Configure touch sampling
+- Fixup gyro and proximity sensor
+- Fixup Bluetooth crash after disabled it
+- Switch linux to 6.6.89
+- Add camera zoom smooth (enable it manual)
+- anything
+
 # 30 Agust, 2026
-- Android 17 🫪
+- Android 17
 - Drop Dolby Vision
 - Refractor more keymint
 
