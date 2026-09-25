@@ -3,7 +3,7 @@ Read carefully this guide if you want to flash any custom ROM made by @kylieeXD
 
 ## Requirements
 ----------------
-1. OrangeFox-R12.0-Unofficial-klee-system-compatible.img
+1. https://github.com/xiaomi-klee-devs/twrp_device_xiaomi_klee/releases/tag/klee-ci-34038030477-1-71737fb
 2. lineage-24.0-xxxxxxxx-UNOFFICIAL-klee.zip
 
 ## Some Instructions
