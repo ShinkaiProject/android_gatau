@@ -1,4 +1,5 @@
 # 09 October, 2026
+- Switch to LeicaCamera
 - Add touch support for aosp recovery
 - Add OTG support for aosp recovery
 - Switch to Google logo.img
