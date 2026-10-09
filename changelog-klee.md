@@ -1,3 +1,15 @@
+# 09 October, 2026
+- Add touch support for aosp recovery
+- Add OTG support for aosp recovery
+- Switch to Google logo.img
+- Fixup can't adjust volume caling on telephone
+- Update thermal configuration
+- Bring back fast charging (depends on phone temperature)
+- Update netflix properties
+- Switch fingerprint to google/komodo_beta/komodo
+- Explicitly disable avb
+- Recover MediaTek HCI client lifecycle
+
 # 25 September, 2026
 - Re-configure HotwordEnrollment
 - Adapt keymint stack to a17
