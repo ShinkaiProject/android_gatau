@@ -1,3 +1,30 @@
+# 13 November, 2026
+- Switch to OSS kernel common, kernel modules, dtb, and dtbo
+- Reverse engineered touch, mitee, and xiaomi spi KModules
+- Repatch fenrir (lk.img) to unblocklist ufshcd_core_init
+- Rebase hardware/mediatek
+- Reconfigure Bluetooth Audio
+- Fixing sound at BTA doesn't appear when using AAC encoder
+- Fixing IR blaster
+- Fixing charging ETA on lock screen
+- Drop usb offload to make OTG work on recovery
+- Remove 30HZ panel (fixing screen glitches when afk)
+- Implement high touch polling rate
+- Import mi_thermal_interfaces & simtray status drivers from malachite-u-oss
+- Fixing iOS devices can't connect to Android hotspot when using WP3A Personal security
+- Make MiuiCamera full enforcing
+- Always enable ADB
+- Upstream vendor blobs to OS3.0.309.0.WPJMIXM
+- Switch to HalcyonDolby
+- Switch to prebuilt WiFi HAL
+- Use OSS mediatek telecom & telephony
+- Match security patch level and stock fingerprint
+- Restore stock surface flinger timings
+- Reorganize device tree (lol)
+- Invalidate running music tracks when loopback mix is registered
+- Provide a dummy Keylayout for uinput-xiaomi
+- Im too lazy to write all of the rest
+
 # 09 October, 2026
 - Switch to LeicaCamera
 - Add touch support for aosp recovery
