@@ -1,13 +1,13 @@
 # Klee Flashing Guide
 Read carefully this guide if you want to flash any custom ROM made by @kylieeXD
 
-## Requirements
+## Requirements Please Follow !!!!
 ----------------
 1. vendor_boot.img
 2. boot.img
-3. lineage-23.3-xxxxxxxx-UNOFFICIAL-klee.zip
+3. lineage-24.0-xxxxxxxx-UNOFFICIAL-klee.zip
 
-## Some Instructions
+## Some Instructions Please Follow !!!!
 --------------------
 1. Boot into bootloader use:
 ```
@@ -19,7 +19,7 @@ adb reboot bootloader
 fastboot flash vendor_boot /path/to/vendor_boot.img
 ```
 
-3. Flash boot use:
+3.  Flash boot use:
 ```
 fastboot flash boot /path/to/boot.img
 ```
@@ -42,7 +42,7 @@ Select Apply Update -> Apply from ADB
 
 6. Flash the ROM
 ```
-adb sideload /path/to/lineage-23.3-xxxxxxxx-UNOFFICIAL-klee.zip
+adb sideload /path/to/lineage-24.0-xxxxxxxx-UNOFFICIAL-klee.zip
 ```
 (or just drag and drop the zip file into terminal window after adb sideload command)
 
