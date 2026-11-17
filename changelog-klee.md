@@ -1,3 +1,16 @@
+# 17 November, 2026
+- Implement single tap to wake
+- Implement offline charging
+- Update camera blobs
+- Correct hostpot name
+- Fixup LHBM at fingerprint still turned on after phone unlocked
+- Make vanilla ROM can flaah gapps
+- Upstream kernel to Linux v6.6.145 LTS Stable
+- Implement backlight trigger using Mi DRM notifier
+- Upstream zstd to v1.5.7 at kernel common
+- Switch to kernel common Transport Layer Security (TLS)
+- Add BBG LSM, Enable DroidSpace containrr
+
 # 13 November, 2026
 - Switch to OSS kernel common, kernel modules, dtb, and dtbo
 - Reverse engineered touch, mitee, and xiaomi spi KModules
